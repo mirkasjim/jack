@@ -1,5 +1,4 @@
 box: python:3.6
-
 no-response-timeout: 60
 command-timeout: 60
 build:
